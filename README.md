@@ -110,5 +110,4 @@ curl http://localhost:5000/health
 - Accuracy: ~89% on IMDB test set
 - Data Source: Hugging Face Datasets ("imdb")
 
-[![Open in GitHub](https://img.shields.io/badge/View-Source_Code-blue?logo=github)](https://github.com/Om-Tiwari/E2E-sentiment-analysis-pipeline)
 ```
